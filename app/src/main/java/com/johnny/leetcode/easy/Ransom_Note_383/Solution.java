@@ -1,4 +1,4 @@
-package com.johnny.leetcode.Ransom_Note_383;
+package com.johnny.leetcode.easy.Ransom_Note_383;
 
 /**
  * brief:
