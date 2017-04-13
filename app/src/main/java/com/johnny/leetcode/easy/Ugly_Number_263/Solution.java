@@ -7,7 +7,7 @@ package com.johnny.leetcode.easy.Ugly_Number_263;
  * date: 2017/4/13.
  */
 //https://leetcode.com/problems/ugly-number/#/description
-    
+
 public class Solution {
     public boolean isUgly(int num) {
         if(num == 1) {
