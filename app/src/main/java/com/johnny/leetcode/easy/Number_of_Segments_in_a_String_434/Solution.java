@@ -7,7 +7,7 @@ package com.johnny.leetcode.easy.Number_of_Segments_in_a_String_434;
  * date: 2017/4/14.
  */
 //https://leetcode.com/problems/number-of-segments-in-a-string/#/description
-    
+
 public class Solution {
     public int countSegments(String s) {
         char[] chars = s.toCharArray();
