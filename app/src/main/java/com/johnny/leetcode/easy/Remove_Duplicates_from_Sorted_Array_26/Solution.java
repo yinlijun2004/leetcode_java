@@ -7,7 +7,7 @@ package com.johnny.leetcode.easy.Remove_Duplicates_from_Sorted_Array_26;
  * date: 2017/4/14.
  */
 //https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description
-    
+
 public class Solution {
     public int removeDuplicates(int[] nums) {
         int dup = 0;
