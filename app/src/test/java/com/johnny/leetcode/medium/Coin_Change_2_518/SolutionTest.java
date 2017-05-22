@@ -20,7 +20,7 @@ public class SolutionTest {
         int[] coins = {1,2,5,7,9};
         Solution solution = new Solution();
         int ret = solution.change(amount, coins);
-        int ret1 = solution.change1(amount, coins);
+        int ret1 = solution.change(amount, coins);
         if(ret != ret1) {
             throw new AssertionFailedError();
         }
