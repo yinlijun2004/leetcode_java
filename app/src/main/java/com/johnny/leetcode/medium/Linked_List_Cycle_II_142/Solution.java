@@ -9,7 +9,7 @@ import com.johnny.leetcode.ListNode;
  * date: 2017/5/26.
  */
 //https://leetcode.com/problems/linked-list-cycle-ii/#/solutions
-    
+
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         if(head == null || head.next == null || head.next.next == null) {
