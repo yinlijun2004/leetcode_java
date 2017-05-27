@@ -10,6 +10,7 @@ import java.util.Map;
  * date: 2017/4/22.
  */
 
+//https://leetcode.com/problems/word-pattern/#/description
 public class Solution {
     public boolean wordPattern(String pattern, String str) {
         if(pattern == null || str == null || pattern.length() == 0 || str.length() == 0) {

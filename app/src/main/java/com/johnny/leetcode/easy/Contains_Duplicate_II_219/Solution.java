@@ -9,6 +9,7 @@ import java.util.Map;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/22.
  */
+//https://leetcode.com/problems/contains-duplicate-ii/#/description
 
 public class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {

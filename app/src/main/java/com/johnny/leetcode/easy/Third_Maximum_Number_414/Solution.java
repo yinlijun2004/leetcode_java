@@ -8,6 +8,7 @@ import java.util.HashSet;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/third-maximum-number/#/description
 
 public class Solution {
     //1.先去重

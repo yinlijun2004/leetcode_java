@@ -9,6 +9,7 @@ import java.util.Queue;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/22.
  */
+//https://leetcode.com/problems/implement-stack-using-queues/#/description
 
 public class Solution {
     public class MyStack {

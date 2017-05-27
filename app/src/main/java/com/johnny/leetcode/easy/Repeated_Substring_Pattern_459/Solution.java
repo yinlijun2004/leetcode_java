@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Repeated_Substring_Pattern_459;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/13.
  */
+//https://leetcode.com/problems/repeated-substring-pattern/#/description
 
 public class Solution {
     public boolean repeatedSubstringPattern(String s) {

@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Count_Primes_204;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/count-primes/#/description
 
 public class Solution {
     /**

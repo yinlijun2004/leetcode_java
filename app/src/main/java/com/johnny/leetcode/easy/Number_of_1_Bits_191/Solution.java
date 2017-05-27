@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Number_of_1_Bits_191;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/13.
  */
+//https://leetcode.com/problems/number-of-1-bits/#/description
 
 public class Solution {
     // you need to treat n as an unsigned value

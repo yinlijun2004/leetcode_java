@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Search_Insert_Position_35;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/12.
  */
+//https://leetcode.com/problems/search-insert-position/#/description
 
 public class Solution {
     public static int searchInsert(int[] nums, int target) {

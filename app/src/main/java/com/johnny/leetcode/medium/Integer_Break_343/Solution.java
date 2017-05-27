@@ -6,6 +6,7 @@ package com.johnny.leetcode.medium.Integer_Break_343;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/17.
  */
+//https://leetcode.com/problems/integer-break/#/description
 
 public class Solution {
     public int integerBreak(int n) {

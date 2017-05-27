@@ -6,6 +6,7 @@ package com.johnny.leetcode.medium.Longest_Palindromic_Subsequence_516;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/17.
  */
+//https://leetcode.com/problems/longest-palindromic-subsequence/#/description
 
 public class Solution {
     private int helper(char[] cs, int[][] dp, int s, int e) {

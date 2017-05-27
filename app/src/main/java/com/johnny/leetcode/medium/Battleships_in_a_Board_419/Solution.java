@@ -6,6 +6,7 @@ package com.johnny.leetcode.medium.Battleships_in_a_Board_419;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/battleships-in-a-board/#/description
 
 public class Solution {
     public int countBattleships(char[][] board) {

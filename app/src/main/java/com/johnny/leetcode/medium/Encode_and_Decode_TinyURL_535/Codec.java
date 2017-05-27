@@ -8,6 +8,7 @@ import java.util.HashMap;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/encode-and-decode-tinyurl/#/description
 
 public class Codec {
     private static HashMap<String, String> map = new HashMap<String, String>();

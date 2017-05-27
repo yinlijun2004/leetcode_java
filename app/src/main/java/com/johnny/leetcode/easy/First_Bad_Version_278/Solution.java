@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.First_Bad_Version_278;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/first-bad-version/#/description
 
 public class Solution {
 

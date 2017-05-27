@@ -1,4 +1,4 @@
-package com.johnny.leetcode.easy.Best_Time_to_Buy_and_Sell_Stock_II;
+package com.johnny.leetcode.easy.Best_Time_to_Buy_and_Sell_Stock_II_122;
 
 /**
  * brief:

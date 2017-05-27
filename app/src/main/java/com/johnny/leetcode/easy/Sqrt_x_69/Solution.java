@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Sqrt_x_69;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/11.
  */
+//https://leetcode.com/problems/sqrtx/#/description
 
 public class Solution {
     /**

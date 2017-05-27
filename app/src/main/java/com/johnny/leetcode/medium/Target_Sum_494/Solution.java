@@ -6,6 +6,7 @@ package com.johnny.leetcode.medium.Target_Sum_494;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/5/17.
  */
+//https://leetcode.com/problems/target-sum/#/description
 
 public class Solution {
     public int findTargetSumWays(int[] nums, int S) {

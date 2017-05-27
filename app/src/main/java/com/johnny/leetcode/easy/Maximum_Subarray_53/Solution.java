@@ -6,6 +6,7 @@ package com.johnny.leetcode.easy.Maximum_Subarray_53;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/13.
  */
+//https://leetcode.com/problems/maximum-subarray/#/description
 
 public class Solution {
     public int maxSubArray(int[] nums) {

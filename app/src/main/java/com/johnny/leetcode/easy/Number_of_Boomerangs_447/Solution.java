@@ -9,6 +9,8 @@ import java.util.Map;
  * email: yinlijun2004 at gmail dot com
  * date: 2017/4/10.
  */
+//https://leetcode.com/problems/number-of-boomerangs/#/description
+
 public class Solution {
     public int numberOfBoomerangs(int[][] points) {
         int res = 0;
